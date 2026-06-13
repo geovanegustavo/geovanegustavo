@@ -1,6 +1,6 @@
-# 👋 Olá! Me chamo **Geovane Torres**
+<h1 align="center"> 👋 Olá! Me chamo <strong>Geovane Torres</strong> </h1>
 
-#### QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia
+<h3 align="center"> QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia </h3>
 
 ---
 

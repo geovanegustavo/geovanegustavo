@@ -2,13 +2,12 @@
 
 <h4 align="center">QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia</h4>
 
-#
-🚀 **Sobre mim**
+🚀 **SOBRE MIM**
 
 Sou um profissional com mais de 14 anos de experiência prática em QA manual e automatizado.
 
 ***
-📌 **Projetos em destaque**
+📌 **PROJETOS EM DESTAQUE**
 
 Testes automatizados com Postman & Newman<br>
 [Handlebars templates](http://handlebarsjs.com/)

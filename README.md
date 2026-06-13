@@ -3,7 +3,7 @@
 <h4 align="center">QA Automation | Desenvolvedor Python | Apaixonado por Testes, Qualidade e Tecnologia</h4>
 
 #
-🚀 Sobre mim
+🚀 **Sobre mim**
 
 <!--
 **geovanegustavo/geovanegustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

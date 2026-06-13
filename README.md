@@ -9,7 +9,7 @@ Sou um profissional com mais de 14 anos de experiência prática em QA manual e 
 
 ***
 📌 **Projetos em destaque**
-Testes automatizados com Postman & Newman
+Testes automatizados com Postman & Newman<br>
 [Handlebars templates](http://handlebarsjs.com/)
 
 <!--

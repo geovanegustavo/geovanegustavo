@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Olá! Me chamo Geovane Torres </h1>
 
-<h2 align="center">QA Automation | Desenvolvedor Python | Apaixonado por Testes, Qualidade e Tecnologia</h2>
+<h3 align="center">QA Automation | Desenvolvedor Python | Apaixonado por Testes, Qualidade e Tecnologia</h3>
 
 🚀 Sobre mim
 

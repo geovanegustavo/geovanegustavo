@@ -2,6 +2,7 @@
 
 <h4 align="center">QA Automation | Desenvolvedor Python | Apaixonado por Testes, Qualidade e Tecnologia</h4>
 
+#
 🚀 Sobre mim
 
 <!--

@@ -1,29 +1,18 @@
-<h1 align="center"> 👋 Olá! Me chamo Geovane Torres </h1>
+# 👋 Olá! Me chamo **Geovane Torres**
 
-<h4 align="center">QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia</h4>
+### QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia
 
+---
 
-🚀 **SOBRE MIM**
+## 🚀 Sobre Mim
 
-Sou um profissional com mais de 14 anos de experiência prática em QA manual e automatizado.
+Sou um profissional com mais de **14 anos de experiência** prática em **QA manual** e **automatizado**, sempre buscando excelência em qualidade e inovação tecnológica.
 
-***
-📌 **PROJETOS EM DESTAQUE**
+---
 
-Testes automatizados com Postman & Newman<br>
-[Handlebars templates](http://handlebarsjs.com/)
+## 📌 Projetos em Destaque
 
-<!--
-**geovanegustavo/geovanegustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Testes Automatizados com Postman & Newman**
+- **[Handlebars Templates](http://handlebarsjs.com/)**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---

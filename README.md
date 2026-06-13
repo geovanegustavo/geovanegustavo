@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um profissional com mais de **14 anos de experiência** prática em **QA manual** e **automatizado**, sempre buscando excelência em qualidade e inovação tecnológica.
+Sou um profissional com mais de **14 anos de experiência** prática em testes manuais e automatizados.
 
 ---
 

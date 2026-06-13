@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 Olá! Me chamo Geovane Torres </h1>
 
 <h4 align="center">QA Automation | QA Manual | Apaixonado por Testes, Qualidade e Tecnologia</h4>
-<br>
+
+
 🚀 **SOBRE MIM**
 
 Sou um profissional com mais de 14 anos de experiência prática em QA manual e automatizado.

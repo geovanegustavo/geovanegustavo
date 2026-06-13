@@ -5,6 +5,8 @@
 #
 🚀 **Sobre mim**
 
+Sou um profissional com mais de 14 anos de experiência prática em QA manual e automatizado.
+
 <!--
 **geovanegustavo/geovanegustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

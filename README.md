@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um profissional com mais de **14 anos de experiência** prática em testes manuais e automatizados.
+Sou um profissional com mais de **14 anos de experiência** prática em testes manuais e automatizados. Atuo com Selenium, Playwright, Postman, Newman.
 
 ---
 

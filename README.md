@@ -12,7 +12,6 @@ Sou um profissional com mais de **14 anos de experiência** prática em testes m
 
 ## 📌 Projetos em Destaque
 
-- **Testes Automatizados com Postman & Newman**
-- **[Handlebars Templates](http://handlebarsjs.com/)**
+- **Testes Automatizados com Postman & Newman**: [Handlebars Templates](http://handlebarsjs.com/)
 
 ---

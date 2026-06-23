@@ -12,7 +12,8 @@ Sou um profissional com mais de **14 anos de experiência** prática em testes m
 
 ## 📌 Projetos em Destaque
 
-- **Testes Automatizados com Postman & Newman**: [api-test-post-newman](https://github.com/geovanegustavo/api-test-postman-newman)
+- **Testes de API Automatizados com REST-Assured**: [serverest-api-tests-restassured](https://github.com/geovanegustavo/serverest-api-tests-restassured)
+- **Testes de API Automatizados com Postman & Newman**: [api-test-post-newman](https://github.com/geovanegustavo/api-test-postman-newman)
 
 
 ---

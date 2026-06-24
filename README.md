@@ -12,9 +12,13 @@ Sou um profissional com mais de **14 anos de experiência** prática em testes m
 
 ## 📌 Projetos em Destaque
 
+### Teste de API
+
 - **Testes de API com REST-Assured + Maven + TestNG**: [api-tests-restassured-maven-serverest](https://github.com/geovanegustavo/api-tests-restassured-maven-serverest)
 - **Testes de API com REST-Assured + Gradle + TestNG**: [serverest-api-tests-restassured](https://github.com/geovanegustavo/serverest-api-tests-restassured)
 - **Testes de API com Postman & Newman**: [api-test-post-newman](https://github.com/geovanegustavo/api-test-postman-newman)
 
+### Testes de UI
 
+- **Testes de UI com Playwright + Typescript**: [UI-E2E-Playwright-Saucedemo](https://github.com/geovanegustavo/UI-E2E-Playwright-Saucedemo.com)
 ---
